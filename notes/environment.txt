@@ -1,0 +1,4 @@
+Instalar Paquetes:
+composer requiere laravel/ui      //Scafoldig de Interface de usuario
+
+php artisan ui vue --auth        // Autenticacion con el framework VUE.JS
